@@ -4,7 +4,7 @@
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-     <icon src="www/img/suvari-icon-32x32.png" />
+     <icon src="www/img/suvari-icon-128x128.png" />
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
